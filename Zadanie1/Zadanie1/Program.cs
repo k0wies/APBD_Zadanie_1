@@ -2,9 +2,14 @@
 {
     public class Program
     {
-        public static void main(string[] args)
+        public static double average(int []tab)
         {
-            //AAAAA
+            int sum = 0;
+            foreach (int i in tab)
+            {
+                sum += i;
+            }
+            return sum/tab.Length;
         }
     }
 }
