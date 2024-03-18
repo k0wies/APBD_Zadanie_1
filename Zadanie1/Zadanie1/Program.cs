@@ -39,4 +39,4 @@
         }
         
     }
-}//aa
+}//tu miało byc dodanie funkcjonalnoście, ale zrobiłem to wcześniej przez pomyłkę
