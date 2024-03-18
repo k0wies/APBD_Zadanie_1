@@ -17,11 +17,12 @@
             if (values.Length>0)
             {
                 int max = values[0];
-                foreach (int r in values)
+
+                foreach (int j in values)
                 {
-                    if (r>max)
+                    if (j>max)
                     {
-                        max = r;
+                        max = j;
                     }
                 }
                 
